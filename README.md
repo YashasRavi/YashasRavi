@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashasRavi
-- 👀 I’m interested in Biology and Computer Science
-- 🌱 I’m currently learning Data Structures, MATLAB, and advanced Biology content
-- 💞️ I’m looking to collaborate on Computer Science projects, especially Computational Modeling
+- 👀 I’m interested in Software, Mathematics, and Biotech.
+- 🌱 I’m currently learning Javascript Frameworks, C, and Differential Equations.
+- 💞️ I’m looking to collaborate on Computer Science projects, especially Web Development and Computational Modeling.
 - 📫 How to reach me ... My email is yashas.ravi.nj@gmail.com
 
 <!---
